@@ -1,0 +1,44 @@
+.about {
+	max-width: 1140px;
+	margin: auto;
+	padding: 15px;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	grid-gap: 30px;
+
+	&__img {
+		img {
+			max-width: 100%;
+			display: block;
+		}
+	}
+
+	&__txt {
+		p {
+			font-size: 24px;
+			margin: 0 0 20px;
+		}
+	}
+	@include r(843){
+		&__txt {
+			p {
+				font-size: 18px;
+				margin: 0 0 20px;
+			}
+		}
+	}
+	@include r(767){
+		grid-template-columns: 1fr;
+		&__img {
+			img {
+				width: 100%;
+				object-fit: cover;
+			}
+		}
+		&__txt {
+			p {
+				font-size: 21px;
+			}
+		}
+	}
+}

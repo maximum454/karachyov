@@ -3,7 +3,7 @@ const webpack = require('webpack');
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const HtmlWebpackHarddiskPlugin = require('html-webpack-harddisk-plugin');
+const CopyWebpackPlugin = require('copy-webpack-plugin');
 
 module.exports = {
     entry: [
@@ -31,15 +31,28 @@ module.exports = {
         watchContentBase: true
     },
     plugins: [
+        new webpack.ProvidePlugin({
+            $: 'jquery',
+            jQuery: 'jquery',
+            'window.jQuery': 'jquery',
+            Popper: ['popper.js', 'default']
+        }),
         new MiniCssExtractPlugin({
             filename: 'css/main.css',
         }),
         new HtmlWebpackPlugin({
             hash: true,
-            title : 'HTML',
             filename: "./index.html",
-            template : './src/index.html'
+            template: './src/index.html',
+            minify: false
         }),
+        new CopyWebpackPlugin([
+            {
+                from: './src/img',
+                to: './img'
+            },
+        ]),
+
     ],
     optimization: {
         minimizer: [
@@ -71,8 +84,8 @@ module.exports = {
             },
 
             {
-                test: /\.(sass|scss)$/,
-                use:  [  'style-loader', MiniCssExtractPlugin.loader, 'css-loader', 'postcss-loader', 'sass-loader']
+                test: /\.(sass|scss|css)$/,
+                use: ['style-loader', MiniCssExtractPlugin.loader, 'css-loader', 'postcss-loader', 'sass-loader']
             },
             {
                 test: /\.(jpg|jpeg|gif|png)$/,

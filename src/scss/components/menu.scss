@@ -1,0 +1,32 @@
+.menu{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	margin: 0;
+	padding: 0;
+
+	&__item{
+		list-style: none;
+		margin-right: 20px;
+		&:last-of-type{
+			margin-right: 0;
+		}
+	}
+	&__link{
+		color: #ffffff;
+		font-size: 16px;
+		text-decoration: none;
+		transition: 300ms;
+		&:hover{
+			color: #00B1AC;
+			transition: 300ms;
+		}
+		&.active{
+			color: #00B1AC;
+		}
+	}
+	@include r(768){
+		display: none;
+	}
+
+}
