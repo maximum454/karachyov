@@ -1,0 +1,18 @@
+@import 'partials/normalize';
+@import 'fonts';
+@import 'color';
+
+body.lock{
+	overflow: hidden;
+}
+.container{
+	width: 100%;
+	max-width: 1160px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0 auto;
+}
+
+@import "componets/header";
+@import "componets/social";
+@import "componets/slider";
