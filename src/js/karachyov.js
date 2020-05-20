@@ -4,6 +4,22 @@
 @@include('partials/jquery.knob.js')
 @@include('partials/slick.js')
 
+$(document).scroll(function (event) {
+    var scroll = $(window).scrollTop(),
+        about = $('.about'),
+        aboutTop = about.offset().top,
+        aboutBottom = aboutTop + about.outerHeight(),
+        contacts = $('.contacts'),
+        contactsTop = contacts.offset().top,
+        contactsBottom = contactsTop + contacts.outerHeight();
+
+    if(scroll >= aboutTop && scroll < aboutBottom || scroll >= contactsTop && scroll < contactsBottom){
+        $('.header__burger, .header__social').addClass('color');
+    }else{
+        $('.header__burger, .header__social').removeClass('color');
+    }
+});
+
 $(".dial").knob({
     readOnly:true,
     width: 160,

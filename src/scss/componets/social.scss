@@ -1,11 +1,13 @@
-.social{
+.social {
 	display: flex;
 	align-items: center;
 	position: relative;
-	&--position{
+
+	&--position {
 		justify-content: flex-end;
 	}
-	&__item{
+
+	&__item {
 		width: 38px;
 		height: 38px;
 		margin-right: 38px;
@@ -14,29 +16,33 @@
 		background-size: cover;
 		background-repeat: no-repeat;
 		background-position: center;
-
-		&:last-child{
+		transition: all 300ms ease 0s;
+		&:last-child {
 			margin-right: 0;
 		}
-		&--whatsapp{
+
+		&--whatsapp {
 			background-image: url("../img/icons/icons.svg#whatsapp-white");
 		}
-		&--telegram{
+
+		&--telegram {
 			background-image: url("../img/icons/icons.svg#telegram-white");
 		}
 	}
-	&__text{
+
+	&__text {
 		color: #B2B2B2;
 		font-size: 14px;
 		font-family: $SourceCodePro;
 		position: relative;
 		padding-left: 36px;
-		&:before{
+
+		&:before {
 			content: '';
 			position: absolute;
 			top: 50%;
 			left: 0;
-			transform: translate(0,-50%);
+			transform: translate(0, -50%);
 			background-image: url("../img/icons/icons.svg#arrow-left");
 			background-size: 100%;
 			background-repeat: no-repeat;
@@ -47,8 +53,8 @@
 	}
 
 
-	@include r(425){
-		&--position{
+	@include r(425) {
+		&--position {
 			justify-content: center;
 		}
 	}

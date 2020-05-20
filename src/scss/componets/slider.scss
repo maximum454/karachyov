@@ -33,7 +33,8 @@
 		font-size: 36px;
 		position: relative;
 		margin: 0;
-		max-width: 960px;
+		max-width: none;
+		padding-right: 130px;
 		&:before{
 			content: '<p>';
 			display: inline-block;
@@ -56,6 +57,11 @@
 	}
 	&__social{
 		display: none;
+	}
+	@include r(1024){
+		&__subtitle{
+
+		}
 	}
 	@include r(768){
 		&__title{

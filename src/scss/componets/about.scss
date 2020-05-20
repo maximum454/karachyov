@@ -20,6 +20,7 @@
 		flex-direction: column;
 		justify-content: center;
 		height: 100%;
+		padding-right: 130px;
 	}
 	&__title{
 	}
@@ -62,6 +63,9 @@
 	}
 	@include r(1024){
 		height: 100%;
+		&__body{
+			padding-right: 0;
+		}
 	}
 	@include r(540){
 		&__diagram{

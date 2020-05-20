@@ -8,7 +8,13 @@
 <body class="main-styler">
 <div class="wrp">
     @@include('./template/_header.html')
-    <div class="slider">
+    <div class="nav-pagination">
+        <a class="nav-pagination__link active" href="#"></a>
+        <a class="nav-pagination__link" href="#"></a>
+        <a class="nav-pagination__link" href="#"></a>
+        <a class="nav-pagination__link" href="#"></a>
+    </div>
+    <section id="slider" class="slider">
         <div class="slider__body container">
             <div class="slider__code">&lt;html&gt;</div>
             <h1 class="slider__title">Верстка сайтов</h1>
@@ -22,9 +28,9 @@
                 <span class="social__text">пишите</span>
             </div>
         </div>
-    </div>
+    </section>
 
-    <section class="about">
+    <section id="about" class="about">
         <div class="about__body container">
             <p>Здравствуйте. Я&nbsp;&mdash; Максим Карачев, HTML-верстальщик из&nbsp;Казахстана. Опыт работы более 5&nbsp;лет.
                 Иногда пишу заметки&nbsp;в
@@ -64,7 +70,7 @@
         </div>
     </section>
 
-    <section class="project">
+    <section id="project" class="project">
         <div class="project__body">
             <div class="project-slider">
                 <div class="project__item">
@@ -152,7 +158,7 @@
         </div>
     </section>
 
-    <section class="contacts">
+    <section id="contacts" class="contacts">
         <div class="contacts__body container">
             <h2 class="contacts__title"><span>Свяжитесь со мной для консультации_</span></h2>
             <div class="contacts__col">

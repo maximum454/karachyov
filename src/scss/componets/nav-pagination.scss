@@ -1,0 +1,29 @@
+.nav-pagination{
+	position: fixed;
+	right: 100px;
+	top: 50%;
+	transform: translate(0,-50%);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	z-index: 10;
+	&__link{
+		width: 24px;
+		height: 24px;
+		border: 5px solid $mildGreen;
+		display: block;
+		text-decoration: none;
+		margin: 16px 0;
+		transition: all 300ms ease 0s;
+		&:hover{
+			background-color: $mildGreen;
+		}
+		&.active{
+			background-color: $mildGreen;
+		}
+	}
+	@include r(1024){
+		display: none;
+	}
+}
