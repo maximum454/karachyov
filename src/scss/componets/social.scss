@@ -2,7 +2,7 @@
 	display: flex;
 	align-items: center;
 	position: relative;
-	&--rigth{
+	&--position{
 		justify-content: flex-end;
 	}
 	&__item{
@@ -43,6 +43,13 @@
 			background-position: center;
 			width: 20px;
 			height: 7px;
+		}
+	}
+
+
+	@include r(425){
+		&--position{
+			justify-content: center;
 		}
 	}
 }

@@ -2,6 +2,99 @@
 	background-image: url("../img/bg.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 100%;
+	min-height: 100vh;
 	height: 100vh;
+	padding-top: 68px;
+	overflow: hidden;
+	&__body{
+		position: relative;
+		height: 100%;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+	}
+	&__title{
+		color: $primary1;
+		position: relative;
+		margin: 0 0 20px;
+		&:before{
+			content: '<h1>';
+			display: inline-block;
+			color: $darkBlue;
+		}
+		&:after{
+			content: '</h1>';
+			display: inline;
+			color: $darkBlue;
+		}
+	}
+	&__subtitle{
+		color: $primary1;
+		font-size: 36px;
+		position: relative;
+		margin: 0;
+		max-width: 960px;
+		&:before{
+			content: '<p>';
+			display: inline-block;
+			color: $primary1;
+		}
+		&:after{
+			content: '</p>';
+			display: inline;
+			color: $primary1;
+		}
+	}
+	&__code{
+		color: $mildGreen;
+		font-size: 64px;
+		font-family: $SourceCodePro;
+		margin: 20px 0;
+	}
+	&__arrow{
+		display: none;
+	}
+	&__social{
+		display: none;
+	}
+	@include r(768){
+		&__title{
+			font-size: 28px;
+		}
+		&__subtitle{
+			font-size: 26px;
+		}
+		&__code{
+			font-size: 48px;
+		}
+	}
+	@include r(425){
+		&__title{
+			font-size: 20px;
+		}
+		&__subtitle{
+			font-size: 18px;
+		}
+		&__social{
+			display: flex;
+			width: 100%;
+			position: absolute;
+			bottom: 24px;
+		}
+
+		&__arrow{
+			display: block;
+			text-decoration: none;
+			background-image: url("../img/icons/icons.svg#arrow-down");
+			background-size: 100%;
+			background-repeat: no-repeat;
+			background-position: center;
+			width: 32px;
+			height: 86px;
+			margin: 30px auto;
+		}
+		.social__text{
+
+		}
+	}
 }

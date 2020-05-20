@@ -1,18 +1,73 @@
 @import 'partials/normalize';
 @import 'fonts';
 @import 'color';
+@import 'mixin';
+@import "partials/slick";
+
+*{
+	box-sizing: border-box;
+}
 
 body.lock{
 	overflow: hidden;
 }
+
 .container{
-	width: 100%;
 	max-width: 1160px;
+	margin-right: auto;
+	margin-left: auto;
 	padding-left: 15px;
 	padding-right: 15px;
-	margin: 0 auto;
+}
+h1{
+	font-size: 48px;
+	font-family: $SourceCodePro;
+	font-weight: bold;
+}
+h2{
+	font-size: 36px;
+	font-family: $SourceCodePro;
+	font-weight: bold;
+	span{
+		background-color: $darkBlue;
+		color: #ffffff;
+		padding: 5px;
+	}
+}
+h3{
+	font-size: 18px;
+	font-family: $SourceCodePro;
+	font-weight: bold;
+}
+@include r(768){
+	h2{
+		font-size: 26px;
+		line-height: 38px;
+	}
+}
+.btn{
+	display: inline-block;
+	@include gradient1;
+	color: $primary1;
+	font-size: 18px;
+	font-weight: normal;
+	font-family: $SourceCodePro;
+	padding: 16px 24px;
+	text-decoration: none;
+	position: relative;
+	border: none;
+	&:after{
+		content: '/>';
+		display: inline;
+		padding-left: 10px;
+	}
 }
 
 @import "componets/header";
 @import "componets/social";
 @import "componets/slider";
+@import "componets/about";
+@import "componets/diagram";
+@import "componets/project";
+@import "componets/contacts";
+@import "componets/form";

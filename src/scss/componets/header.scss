@@ -16,12 +16,12 @@
 
 	}
 	&__body{
-		width: 100%;
 		position: relative;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		padding: 15px;
+		padding-top: 15px;
+		padding-bottom: 15px;
 	}
 	&__social{
 
@@ -123,5 +123,28 @@
 		font-weight: normal;
 		text-decoration: none;
 
+	}
+	@include r(768){
+		.social__text{
+			display: none;
+		}
+	}
+	@include r(425){
+		&__body{
+			justify-content: flex-end;
+		}
+		&__social{
+			display: none;
+		}
+		&__menu{
+			padding-top: 80px;
+		}
+		&__list{
+			text-align: center;
+		}
+		&__logo{
+			left: 15px;
+			transform: translate(0,-50%);
+		}
 	}
 }

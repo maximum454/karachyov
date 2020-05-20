@@ -1,0 +1,39 @@
+.form{
+	&__item{
+		margin-bottom: 32px;
+	}
+	&__input{
+		width: 100%;
+		padding: 15px 24px;
+		background-color: $primary1;
+		border:1px solid $gray ;
+	}
+	&__message{
+		width: 100%;
+		padding: 15px 24px;
+		background-color: $primary1;
+		border:1px solid $gray ;
+		resize: none;
+	}
+	&__col{
+		display: flex;
+		justify-content: space-between;
+	}
+	&__safe{
+		max-width: 166px;
+		margin: 0;
+		padding-left: 26px;
+		background-image: url("../img/icons/icons.svg#lock");
+		background-size: 18px;
+		background-repeat: no-repeat;
+		background-position: left center;
+		color: $gray;
+		font-size: 10px;
+		line-height: 140%;
+	}
+	@include r(767){
+		&__safe{
+			display: none;
+		}
+	}
+}
