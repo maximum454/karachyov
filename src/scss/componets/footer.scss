@@ -1,12 +1,14 @@
-.footer{
+.footer {
 	background-color: $primary2;
 	padding: 32px 0;
-	&__body{
+
+	&__body {
 		display: grid;
-		grid-template-columns: repeat(auto-fill,260px);
+		grid-template-columns: repeat(auto-fit, minmax(196px, 1fr));
 		grid-column-gap: 40px;
 	}
-	&__visa{
+
+	&__visa {
 		background-image: url("../img/icons/icons.svg#cc-visa");
 		background-size: 100%;
 		background-repeat: no-repeat;
@@ -15,7 +17,8 @@
 		height: 32px;
 		display: inline-block;
 	}
-	&__mastercard{
+
+	&__mastercard {
 		background-image: url("../img/icons/icons.svg#cc-mastercard");
 		background-size: 100%;
 		background-repeat: no-repeat;
@@ -24,9 +27,21 @@
 		height: 32px;
 		display: inline-block;
 	}
-	p{
+
+	p {
 		color: $primary1;
 		font-size: 12px;
 		font-family: $Montserrat;
+	}
+
+	@include r(980) {
+		&__body {
+			grid-template-columns: 1fr 1fr;
+		}
+	}
+	@include r(540) {
+		&__body {
+			grid-template-columns: 1fr;
+		}
 	}
 }
