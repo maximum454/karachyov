@@ -20,6 +20,16 @@ $(document).scroll(function (event) {
     }
 });
 
+$(".menuscroll").on("click","a", function (event) {
+    event.preventDefault();
+    var id  = $(this).attr('href'),
+        top = $(id).offset().top;
+    $('.menuscroll a').removeClass('active');
+    $(this).addClass('active');
+    $('.header, .header__burger, .header__menu, .header__logo').removeClass('active');
+    $('body,html').animate({scrollTop: top}, 1500);
+});
+
 $(".dial").knob({
     readOnly:true,
     width: 160,
