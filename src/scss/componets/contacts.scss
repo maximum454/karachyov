@@ -25,40 +25,7 @@
 		max-width: 867px;
 		justify-content: space-between;
 	}
-	&__list{
-		margin: 0;
-		padding: 0;
-		list-style: none;
-	}
-	&__item{
-		margin-bottom: 32px;
-		background-size: 24px;
-		background-repeat: no-repeat;
-		background-position: left center;
-		padding-left: 40px;
-		color: $gray;
-		font-size: 24px;
-		font-family: $Montserrat;
-		text-decoration: none;
-		&--time{
-			font-weight: bold;
-			background-image: url("../img/icons/icons.svg#clock-circle-filled");
-		}
-		&--phone{
-			background-image: url("../img/icons/icons.svg#phone-filled");
-		}
-		&--email{
-			background-image: url("../img/icons/icons.svg#mail-filled");
-		}
-		a{
-			color: inherit;
-			text-decoration: none;
-			transition: all 300ms ease 0s;
-			&:hover{
-				color: $mildGreen;
-			}
-		}
-	}
+
 	@include r(767){
 		height: 100%;
 		&__col{
@@ -66,11 +33,6 @@
 		}
 		&__form{
 			margin-bottom: 40px;
-		}
-	}
-	@include r(425){
-		&__item{
-			font-size: 18px;
 		}
 	}
 }
