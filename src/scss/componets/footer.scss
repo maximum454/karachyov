@@ -1,7 +1,9 @@
 .footer {
 	background-color: $primary2;
 	padding: 32px 0;
-
+	background-image: url("../img/bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
 	&__body {
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(196px, 1fr));
