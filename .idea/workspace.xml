@@ -2,15 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c85a6c-f0d6-4e4e-9218-28afcf3c99ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/img/GitHub_Logo_White.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/css/karachyov.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/css/karachyov.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/ProximaNova-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/ProximaNova-Reg.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/ProximaNovaBold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/html_code.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/GitHub_Logo_White.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/GitHub_Logo_White.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/Unconfirmed 299800.crdownload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/Unconfirmed 323212.crdownload" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/about-bg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/bg-menu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/bg-menu.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/contacts-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/contacts-bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/icons/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/logo-dark.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/logo-light.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/project-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/project-bg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/project.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/stack/sprite.stack.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/js/karachyov.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/js/karachyov.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/porfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/site.webmanifest" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/js/karachyov.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/karachyov.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/porfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/componets/nav-tag.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/filter.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/componets/pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/karachyov.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/karachyov.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/_meta.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/_meta.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +98,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="318">
+              <caret line="170" column="58" selection-start-line="170" selection-start-column="58" selection-end-line="170" selection-end-column="58" />
               <folding>
                 <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -61,10 +123,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/scss/componets/pagination.scss">
+        <entry file="file://$PROJECT_DIR$/src/template/_meta.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            <state relative-caret-position="405">
+              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -113,7 +175,6 @@
         <option value="$PROJECT_DIR$/src/js/main.js" />
         <option value="$PROJECT_DIR$/src/scss/main.scss" />
         <option value="$PROJECT_DIR$/src/template/meta.html" />
-        <option value="$PROJECT_DIR$/src/template/_meta.html" />
         <option value="$PROJECT_DIR$/src/js/partials/script.js" />
         <option value="$PROJECT_DIR$/src/js/partials/alert.js" />
         <option value="$PROJECT_DIR$/.babelrc" />
@@ -155,6 +216,7 @@
         <option value="$PROJECT_DIR$/src/scss/componets/filter.scss" />
         <option value="$PROJECT_DIR$/src/js/karachyov.js" />
         <option value="$PROJECT_DIR$/src/scss/componets/pagination.scss" />
+        <option value="$PROJECT_DIR$/src/template/_meta.html" />
       </list>
     </option>
   </component>
@@ -179,36 +241,6 @@
             <path>
               <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
               <item name="karachyov" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="karachyov" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="karachyov" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="karachyov" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="karachyov" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="componets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="karachyov" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,11 +270,11 @@
       <recent name="$PROJECT_DIR$/src/html/views" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/template" />
       <recent name="$PROJECT_DIR$/src/img" />
       <recent name="$PROJECT_DIR$/src/iconsprite" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/js/partials" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -262,7 +294,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23828755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -322,16 +353,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build/js/karachyov.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/iconsprite/support.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -743,10 +764,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/pagination.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="318">
+          <caret line="170" column="58" selection-start-line="170" selection-start-column="58" selection-end-line="170" selection-end-column="58" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -768,10 +796,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/pagination.scss">
+    <entry file="file://$PROJECT_DIR$/src/html_code.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/_meta.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        <state relative-caret-position="405">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
         </state>
       </provider>
     </entry>
