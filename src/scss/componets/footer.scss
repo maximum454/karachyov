@@ -37,7 +37,7 @@
 		background-position: center;
 		background-size: 100%;
 		width: 32px;
-		height: 23px;
+		height: 32px;
 	}
 	&__instagram{
 		display: inline-block;
@@ -47,9 +47,18 @@
 		background-position: center;
 		background-size: 100%;
 		width: 32px;
-		height: 23px;
+		height: 32px;
 	}
-
+	&__github{
+		display: inline-block;
+		text-decoration: none;
+		background-image: url("../img/GitHub_Logo_White.png");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: 100%;
+		width: 80px;
+		height: 32px;
+	}
 	p {
 		color: $primary1;
 		font-size: 12px;

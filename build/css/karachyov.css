@@ -1790,7 +1790,7 @@ h4 span.color {
   background-position: center;
   background-size: 100%;
   width: 32px;
-  height: 23px;
+  height: 32px;
 }
 
 .footer__instagram {
@@ -1801,7 +1801,20 @@ h4 span.color {
   background-position: center;
   background-size: 100%;
   width: 32px;
-  height: 23px;
+  height: 32px;
+}
+
+.no-webp .footer__github{
+  background-image: url("../img/GitHub_Logo_White.png"); }
+
+.footer__github {
+  display: inline-block;
+  text-decoration: none;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  width: 80px;
+  height: 32px;
 }
 
 .footer p {
@@ -2248,3 +2261,5 @@ h4 span.color {
 .webp .contacts{ background-image: url(../img/contacts-bg.webp); }
 
 .webp .footer{ background-image: url(../img/bg.webp); }
+
+.webp .footer__github{ background-image: url(../img/GitHub_Logo_White.webp); }
