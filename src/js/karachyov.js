@@ -29,6 +29,15 @@ $(".menuscroll").on("click","a", function (event) {
     $('body,html').animate({scrollTop: top}, 1500);
 });
 
+$('.filter__burger').on('click', function () {
+   $(this).toggleClass('active').next().fadeToggle();
+    $('.filter a').click(function () {
+        var text = $(this).html();
+        $('.filter__burger').html(text).removeClass('active').next().fadeOut();
+    })
+
+});
+
 $(".dial").knob({
     readOnly:true,
     width: 100,
