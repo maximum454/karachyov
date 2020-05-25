@@ -7,7 +7,9 @@
 *{
 	box-sizing: border-box;
 }
-
+body{
+	font-family: $SourceCodePro;
+}
 body.lock{
 	overflow: hidden;
 }
@@ -23,6 +25,11 @@ h1{
 	font-size: 48px;
 	font-family: $SourceCodePro;
 	font-weight: bold;
+	span{
+		background-color: $darkBlue;
+		color: #ffffff;
+		padding: 5px;
+	}
 }
 h2{
 	font-size: 36px;
@@ -53,6 +60,9 @@ h4{
 	}
 }
 @include r(768){
+	h1{
+		font-size: 38px;
+	}
 	h2{
 		font-size: 26px;
 		line-height: 38px;
@@ -75,7 +85,24 @@ h4{
 		padding-left: 10px;
 	}
 }
-
+.page{
+	padding-top: 68px;
+	padding-bottom: 129px;
+	position: relative;
+	overflow: hidden;
+	&:after{
+		content: '';
+		position: absolute;
+		right: -450px;
+		bottom: 162px;
+		background-image: url("../img/about-bg.svg");
+		background-repeat: no-repeat;
+		width: 904px;
+		height: 693px;
+		pointer-events: none;
+		z-index: -1;
+	}
+}
 @import "componets/nav-pagination";
 @import "componets/header";
 @import "componets/social";
@@ -87,3 +114,8 @@ h4{
 @import "componets/form";
 @import "componets/contacts-list";
 @import "componets/footer";
+@import "componets/nav-tag";
+@import "componets/breadcrumbs";
+@import "componets/pagination";
+@import "componets/blog";
+@import "componets/page";

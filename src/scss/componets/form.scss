@@ -30,6 +30,7 @@
 		color: $gray;
 		font-size: 10px;
 		line-height: 140%;
+		font-family: $Montserrat;
 	}
 	@include r(767){
 		&__safe{

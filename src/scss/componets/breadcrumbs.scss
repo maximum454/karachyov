@@ -1,0 +1,22 @@
+.breadcrumbs{
+	margin: 32px 0;
+	&__link{
+		color: $mildGreen;
+		font-size: 14px;
+		position: relative;
+		text-decoration: none;
+		&:after{
+			content: '/>';
+			display: inline;
+			color: $gray;
+			padding: 0 15px;
+		}
+		span{
+			text-decoration: underline;
+			color: $mildGreen;
+		}
+	}
+	&__span{
+		color: $gray;
+	}
+}

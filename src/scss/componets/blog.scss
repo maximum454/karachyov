@@ -1,0 +1,40 @@
+.blog{
+	&__title{
+		color: $darkBlue;
+		font-size: 24px;
+
+	}
+	&__anons{
+		font-size: 14px;
+		line-height: 1.5;
+		font-family: $Montserrat;
+	}
+	&__item{
+		border-bottom: 1px solid $gray;
+		padding-bottom: 24px;
+		margin-bottom: 24px;
+		&:last-of-type{
+			border-bottom: none;
+		}
+	}
+	&__info{
+		display: flex;
+	}
+	&__data{
+		color: $mildGreen;
+		background-image: url("../img/icons/icons.svg#calendar-outlined");
+		background-size: 16px;
+		background-position: left center;
+		background-repeat: no-repeat;
+		padding-left: 26px;
+		margin-right: 32px;
+	}
+	&__tag{
+		color: $mildGreen;
+		background-image: url("../img/icons/icons.svg#paper-clip-outlined");
+		background-size: 16px;
+		background-position: left center;
+		background-repeat: no-repeat;
+		padding-left: 26px;
+	}
+}

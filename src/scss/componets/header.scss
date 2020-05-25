@@ -15,6 +15,15 @@
 		}
 
 	}
+	&--page{
+		background-color: $mildGreen;
+		background-image: url("../img/bg-menu.jpg");
+		background-size: cover;
+		background-repeat: no-repeat;
+		.header__logo{
+			background-image: url("../img/logo-light.svg");
+		}
+	}
 	&__body{
 		position: relative;
 		display: flex;

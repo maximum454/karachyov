@@ -29,10 +29,31 @@
 		height: 32px;
 		display: inline-block;
 	}
+	&__facebook{
+		display: inline-block;
+		text-decoration: none;
+		background-image: url("../img/icons/icons.svg#facebook-filled");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: 100%;
+		width: 32px;
+		height: 23px;
+	}
+	&__instagram{
+		display: inline-block;
+		text-decoration: none;
+		background-image: url("../img/icons/icons.svg#instagram-filled");
+		background-repeat: no-repeat;
+		background-position: center;
+		background-size: 100%;
+		width: 32px;
+		height: 23px;
+	}
 
 	p {
 		color: $primary1;
 		font-size: 12px;
+		line-height: 1.5;
 		font-family: $Montserrat;
 	}
 

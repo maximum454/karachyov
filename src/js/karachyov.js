@@ -40,7 +40,7 @@ $(".dial").knob({
     fontSize: '18px'
 });
 
-$('.project-slider').slick({
+$('.js-project-slider').slick({
     centerMode: true,
     centerPadding: '60px',
     slidesToShow: 3,
