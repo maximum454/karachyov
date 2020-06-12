@@ -2,14 +2,53 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c85a6c-f0d6-4e4e-9218-28afcf3c99ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/build/img/social.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/social.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/social.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-chrome-192x192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/android-chrome-512x512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-114x114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-120x120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-144x144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-152x152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-180x180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-57x57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-60x60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-72x72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-76x76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/blog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/browserconfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/karachyov.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/karachyov.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/karachyov.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/karachyov.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/favicon-16x16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/ProximaNova-Light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/ProximaNova-Reg.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/fonts/ProximaNovaBold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/html_code.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/Unconfirmed 299800.crdownload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/Unconfirmed 323212.crdownload" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/img/stack/sprite.stack.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/stack/sprite.stack.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/karachyov.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/karachyov.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/karachyov.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/karachyov.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/mstile-150x150.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/componets/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template/_footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/_footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/porfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/safari-pinned-tab.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/site.webmanifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/karachyov.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/karachyov.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/componets/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/about.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/componets/diagram.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/diagram.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/componets/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/componets/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/slider.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/karachyov.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/karachyov.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/mixin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/template/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/_header.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,63 +59,48 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/template/_footer.html">
+        <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="285">
+              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts-list.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <folding>
+                <element signature="e#700#824#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scss/mixin.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scss/componets/footer.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="424">
-              <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+            <state relative-caret-position="315">
+              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
               <folding>
                 <element signature="e#164#273#0" />
                 <element signature="e#284#491#0" />
                 <element signature="e#508#721#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/blog.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
-              <folding>
-                <element signature="n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/page.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="170" column="58" selection-start-line="170" selection-start-column="58" selection-end-line="170" selection-end-column="58" />
-              <folding>
-                <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#2;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#3;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#4;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#5;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#6;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#li#7;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#3;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#4;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#5;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#6;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#7;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#8;n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#734#974#0" />
+                <element signature="e#988#1229#0" />
+                <element signature="e#1240#1470#0" />
+                <element signature="e#1584#1639#0" />
               </folding>
             </state>
           </provider>
@@ -105,10 +129,13 @@
       <find>font</find>
       <find>fontWeight</find>
       <find>nav-tag</find>
+      <find>transition: all 100ms ease 0s;</find>
+      <find>transition: all 300ms ease 0s;</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>filter</replace>
+      <replace>transition: all 100ms ease 0s;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -117,57 +144,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/scss/class.scss" />
-        <option value="$PROJECT_DIR$/src/scss/components/menu.scss" />
-        <option value="$PROJECT_DIR$/src/scss/components/about.scss" />
-        <option value="$PROJECT_DIR$/src/scss/components/header.scss" />
-        <option value="$PROJECT_DIR$/src/scss/components/upline.scss" />
-        <option value="$PROJECT_DIR$/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/js/main.js" />
-        <option value="$PROJECT_DIR$/src/scss/main.scss" />
-        <option value="$PROJECT_DIR$/src/template/meta.html" />
-        <option value="$PROJECT_DIR$/src/js/partials/script.js" />
-        <option value="$PROJECT_DIR$/src/js/partials/alert.js" />
-        <option value="$PROJECT_DIR$/.babelrc" />
-        <option value="$PROJECT_DIR$/src/js/partials/webp.js" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/src/scss/partials/_fonts.scss" />
         <option value="$PROJECT_DIR$/src/scss/partials/_color.scss" />
         <option value="$PROJECT_DIR$/src/scss/_fonts.scss" />
         <option value="$PROJECT_DIR$/build/img/icons/icons.svg" />
-        <option value="$PROJECT_DIR$/src/scss/fonts.scss" />
-        <option value="$PROJECT_DIR$/src/scss/mixin.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/feedback.scss" />
-        <option value="$PROJECT_DIR$/src/scss/componets/diagram.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/contacts.scss" />
-        <option value="$PROJECT_DIR$/src/scss/componets/contacts-list.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/social.scss" />
         <option value="$PROJECT_DIR$/src/js/partials/burger.js" />
         <option value="$PROJECT_DIR$/src/scss/componets/nav-pagination.scss" />
-        <option value="$PROJECT_DIR$/src/scss/componets/about.scss" />
         <option value="$PROJECT_DIR$/src/js/partials/jquery.knob.js" />
         <option value="$PROJECT_DIR$/src/projects.html" />
-        <option value="$PROJECT_DIR$/src/template/_header.html" />
-        <option value="$PROJECT_DIR$/src/scss/componets/header.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/breadcrumbs.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/blog.scss" />
-        <option value="$PROJECT_DIR$/src/scss/componets/slider.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/nav-tag.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/project.scss" />
         <option value="$PROJECT_DIR$/src/porfolio.html" />
         <option value="$PROJECT_DIR$/src/scss/componets/page.scss" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/scss/componets/form.scss" />
-        <option value="$PROJECT_DIR$/src/scss/karachyov.scss" />
         <option value="$PROJECT_DIR$/src/template/_filter.html" />
         <option value="$PROJECT_DIR$/src/blog.html" />
         <option value="$PROJECT_DIR$/src/page.html" />
         <option value="$PROJECT_DIR$/src/scss/componets/filter.scss" />
-        <option value="$PROJECT_DIR$/src/js/karachyov.js" />
         <option value="$PROJECT_DIR$/src/scss/componets/pagination.scss" />
         <option value="$PROJECT_DIR$/src/template/_meta.html" />
         <option value="$PROJECT_DIR$/src/template/_footer.html" />
         <option value="$PROJECT_DIR$/src/scss/componets/footer.scss" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#3/header.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#4/header.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#5/header.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#7/header.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#9/index.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#8/header.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#10/index.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#11/header.php" />
+        <option value="$PROJECT_DIR$/src/scss/fonts.scss" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#12/header.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#14/header.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#13/index.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#15/footer.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/src/js/karachyov.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/template/_header.html" />
+        <option value="$PROJECT_DIR$/src/scss/componets/header.scss" />
+        <option value="$PROJECT_DIR$/src/scss/mixin.scss" />
+        <option value="$PROJECT_DIR$/src/scss/componets/slider.scss" />
+        <option value="$PROJECT_DIR$/src/scss/karachyov.scss" />
+        <option value="$PROJECT_DIR$/src/scss/componets/about.scss" />
+        <option value="$PROJECT_DIR$/src/scss/componets/diagram.scss" />
+        <option value="$PROJECT_DIR$/src/scss/componets/contacts-list.scss" />
       </list>
     </option>
   </component>
@@ -177,15 +204,14 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="812" />
+    <option name="width" value="1280" />
+    <option name="height" value="712" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,13 +222,12 @@
             <path>
               <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
               <item name="karachyov" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
               <item name="karachyov" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
@@ -221,6 +246,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,19 +263,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/img" />
+      <recent name="$PROJECT_DIR$/build" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/template" />
+      <recent name="$PROJECT_DIR$/src/iconsprite" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/scss" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/dist" />
       <recent name="$PROJECT_DIR$/src/html/views" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/build" />
-      <recent name="$PROJECT_DIR$/src" />
-      <recent name="$PROJECT_DIR$/src/template" />
-      <recent name="$PROJECT_DIR$/src/img" />
-      <recent name="$PROJECT_DIR$/src/iconsprite" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -269,9 +295,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23828755" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23505655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -325,206 +350,24 @@
     <MESSAGE value="nav-pagi" />
     <MESSAGE value="scroll nav" />
     <MESSAGE value="footer" />
-    <MESSAGE value="fix" />
     <MESSAGE value="favicon" />
     <MESSAGE value="meta" />
-    <option name="LAST_COMMIT_MESSAGE" value="meta" />
+    <MESSAGE value="github" />
+    <MESSAGE value="fix" />
+    <MESSAGE value="fix font" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix font" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/partials/alert.js" />
-    <entry file="file://$PROJECT_DIR$/src/js/partials/cal.js" />
-    <entry file="file://$PROJECT_DIR$/src/js/partials/webp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/partials/fullpage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/partials/fullpage.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/logo.png" />
-    <entry file="file://$PROJECT_DIR$/src/img/bg.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/img/icons/icons.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/iconsprite/arrow-left.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/css/karachyov.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/logo-dark.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/partials/_bootstrap.min.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="48" column="1" lean-forward="true" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/color.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/mixin.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/partials/slick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="27" column="15" lean-forward="true" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/partials/_normalize.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="91" column="5" lean-forward="true" selection-start-line="91" selection-start-column="5" selection-end-line="91" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/diagram.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
-          <folding>
-            <element signature="e#376#487#0" />
-            <element signature="e#431#483#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="177" column="1" lean-forward="true" selection-start-line="177" selection-start-column="1" selection-end-line="177" selection-end-column="1" />
-          <folding>
-            <element signature="n#!!block;n#browserSync#0" />
-            <element signature="n#!!block;n#html#0" />
-            <element signature="n#!!block;n#css#0" />
-            <element signature="n#!!block;n#js#0" />
-            <element signature="n#!!block;n#images#0" />
-            <element signature="e#3702#4043#0" />
-            <element signature="n#!!block;n#fonts#0" />
-            <element signature="n#!!block;n#clean#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts-list.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#305#404#0" />
-            <element signature="e#415#485#0" />
-            <element signature="e#496#565#0" />
-            <element signature="e#569#693#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/social.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/nav-pagination.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/partials/burger.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/fonts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/partials/jquery.knob.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="717" column="79" selection-start-line="717" selection-start-column="79" selection-end-line="717" selection-end-column="79" />
-          <folding>
-            <element signature="e#17#282#0" />
-            <element signature="e#303#636#0" />
-            <element signature="e#342#422#0" />
-            <element signature="e#476#569#0" />
-            <element signature="e#575#634#0" />
-            <element signature="e#657#691#0" />
-            <element signature="e#715#764#0" />
-            <element signature="e#970#1164#0" />
-            <element signature="e#2402#2623#0" />
-            <element signature="e#2459#2516#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/header.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-          <folding>
-            <element signature="e#73#204#0" />
-            <element signature="e#85#200#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/about.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/componets/breadcrumbs.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -532,39 +375,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build/img/stack/sprite.stack.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="167" column="40" lean-forward="true" selection-start-line="167" selection-start-column="40" selection-end-line="167" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/slider.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="71" column="29" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
-          <folding>
-            <element signature="e#189#301#0" />
-            <element signature="e#311#537#0" />
-            <element signature="e#385#457#0" />
-            <element signature="e#467#534#0" />
-            <element signature="e#550#829#0" />
-            <element signature="e#679#750#0" />
-            <element signature="e#760#826#0" />
-            <element signature="e#838#931#0" />
-            <element signature="e#941#962#0" />
-            <element signature="e#973#994#0" />
-            <element signature="e#1012#1036#0" />
-            <element signature="e#1027#1033#0" />
-            <element signature="e#1065#1090#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -621,23 +435,6 @@
     <entry file="file://$PROJECT_DIR$/src/iconsprite/facebook-filled.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="184" column="139" selection-start-line="184" selection-start-column="118" selection-end-line="184" selection-end-column="139" />
-          <folding>
-            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/componets/form.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -648,66 +445,8 @@
     <entry file="file://$PROJECT_DIR$/src/scss/componets/page.scss">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/porfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/karachyov.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="113" column="25" lean-forward="true" selection-start-line="113" selection-start-column="25" selection-end-line="113" selection-end-column="25" />
-          <folding>
-            <element signature="e#109#137#0" />
-            <element signature="e#142#175#0" />
-            <element signature="e#185#207#0" />
-            <element signature="e#219#326#0" />
-            <element signature="e#329#475#0" />
-            <element signature="e#404#473#0" />
-            <element signature="e#478#624#0" />
-            <element signature="e#553#622#0" />
-            <element signature="e#627#698#0" />
-            <element signature="e#701#895#0" />
-            <element signature="e#776#893#0" />
-            <element signature="e#852#890#0" />
-            <element signature="e#911#989#0" />
-            <element signature="e#916#939#0" />
-            <element signature="e#943#987#0" />
-            <element signature="e#994#1283#0" />
-            <element signature="e#1219#1281#0" />
-            <element signature="e#1289#1612#0" />
-            <element signature="e#1383#1610#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/_filter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
-          <folding>
-            <element signature="n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/karachyov.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="24" column="51" lean-forward="true" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/porfolio.html" />
+    <entry file="file://$PROJECT_DIR$/src/template/_filter.html" />
     <entry file="file://$PROJECT_DIR$/src/scss/componets/filter.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -727,19 +466,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/html_code.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/html_code.html" />
+    <entry file="file://$PROJECT_DIR$/src/img/GitHub_Logo_White.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#1/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#3/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#4/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="61" column="43" lean-forward="true" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#6/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/template/_meta.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="72" lean-forward="true" selection-start-line="22" selection-start-column="72" selection-end-line="22" selection-end-column="72" />
+        <state relative-caret-position="240">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="71" selection-start-line="30" selection-start-column="71" selection-end-line="30" selection-end-column="71" />
+          <folding>
+            <element signature="n#div#0;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#section#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="543">
           <caret line="170" column="58" selection-start-line="170" selection-start-column="58" selection-end-line="170" selection-end-column="58" />
           <folding>
             <element signature="n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" />
@@ -762,24 +539,377 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/_footer.html">
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#5/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="36" />
+        <state relative-caret-position="227">
+          <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/img/GitHub_Logo_White.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#7/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="97" column="32" lean-forward="true" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#8/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
+          <folding>
+            <element signature="e#4384#4704#1#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#9/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
+          <folding>
+            <element signature="e#753#759#0#HTML" expanded="true" />
+            <element signature="e#913#1253#0#HTML" />
+            <element signature="e#502#1210#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#10/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#11/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="93" column="35" lean-forward="true" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/css/karachyov.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#12/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="50" selection-end-column="117" />
+          <folding>
+            <element signature="e#4361#4366#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#14/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="87" column="9" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/_footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#15/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="n#footer#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#13/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+          <folding>
+            <element signature="e#1293#3132#0#HTML" />
+            <element signature="e#3293#3835#0#HTML" />
+            <element signature="e#3852#4394#0#HTML" />
+            <element signature="e#4411#4953#0#HTML" />
+            <element signature="e#4970#5512#0#HTML" />
+            <element signature="e#5529#6071#0#HTML" />
+            <element signature="e#6088#6630#0#HTML" />
+            <element signature="e#6810#8451#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="16" column="43" lean-forward="true" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <element signature="e#455#1287#0#HTML" />
+            <element signature="e#1336#3117#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/blog.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/page.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#3980#3984#0" expanded="true" />
+            <element signature="e#3988#3992#0" expanded="true" />
+            <element signature="e#4156#4162#0" expanded="true" />
+            <element signature="e#4235#4239#0" expanded="true" />
+            <element signature="e#4244#4248#0" expanded="true" />
+            <element signature="e#4791#4797#0" expanded="true" />
+            <element signature="e#4797#4804#0" expanded="true" />
+            <element signature="e#4840#4846#0" expanded="true" />
+            <element signature="e#4877#4883#0" expanded="true" />
+            <element signature="e#4922#4928#0" expanded="true" />
+            <element signature="e#5173#5179#0" expanded="true" />
+            <element signature="e#5263#5269#0" expanded="true" />
+            <element signature="e#5303#5309#0" expanded="true" />
+            <element signature="e#11529#11535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="145" column="11" selection-start-line="145" selection-start-column="11" selection-end-line="145" selection-end-column="20" />
+          <folding>
+            <element signature="e#110#768#0" />
+            <element signature="e#123#288#0" />
+            <element signature="e#299#553#0" />
+            <element signature="e#566#733#0" />
+            <element signature="n#!!block;n#browserSync#0" />
+            <element signature="e#1640#1828#0" />
+            <element signature="e#1658#1711#0" />
+            <element signature="n#!!block;n#html#0" />
+            <element signature="n#!!block;n#css#0" />
+            <element signature="e#2088#2142#0" />
+            <element signature="e#2245#2349#0" />
+            <element signature="e#2396#2487#0" />
+            <element signature="e#2596#2647#0" />
+            <element signature="n#!!block;n#js#0" />
+            <element signature="e#2944#2994#0" />
+            <element signature="n#!!block;n#images#0" />
+            <element signature="e#3160#3203#0" />
+            <element signature="e#3320#3580#0" />
+            <element signature="e#3458#3566#0" />
+            <element signature="e#3480#3548#0" />
+            <element signature="e#3702#4043#0" />
+            <element signature="e#3793#3994#0" />
+            <element signature="e#3817#3979#0" />
+            <element signature="e#3846#3961#0" />
+            <element signature="e#4080#4265#0" />
+            <element signature="e#4163#4211#0" />
+            <element signature="n#!!block;n#fonts#0" />
+            <element signature="n#!!block;n#clean#0" />
+            <element signature="n#!!block;n#watchFiles#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#7#3587#0" />
+            <element signature="e#73#204#0" />
+            <element signature="e#85#200#0" />
+            <element signature="e#213#426#0" />
+            <element signature="e#367#423#0" />
+            <element signature="e#435#580#0" />
+            <element signature="e#591#596#0" />
+            <element signature="e#605#999#0" />
+            <element signature="e#858#996#0" />
+            <element signature="e#1010#1925#0" />
+            <element signature="e#1119#1274#0" />
+            <element signature="e#1285#1301#0" />
+            <element signature="e#1311#1330#0" />
+            <element signature="e#1337#1489#0" />
+            <element signature="e#1500#1673#0" />
+            <element signature="e#1513#1564#0" />
+            <element signature="e#1575#1630#0" />
+            <element signature="e#1638#1669#0" />
+            <element signature="e#1683#1922#0" />
+            <element signature="e#1708#1871#0" />
+            <element signature="e#1879#1918#0" />
+            <element signature="e#1934#2298#0" />
+            <element signature="e#2238#2295#0" />
+            <element signature="e#2307#3050#0" />
+            <element signature="e#2362#3046#0" />
+            <element signature="e#2413#3042#0" />
+            <element signature="e#2633#2828#0" />
+            <element signature="e#2706#2757#0" />
+            <element signature="e#2770#2822#0" />
+            <element signature="e#2841#3036#0" />
+            <element signature="e#2914#2965#0" />
+            <element signature="e#2978#3030#0" />
+            <element signature="e#3061#3286#0" />
+            <element signature="e#3072#3282#0" />
+            <element signature="e#3101#3175#0" />
+            <element signature="e#3204#3278#0" />
+            <element signature="e#3303#3346#0" />
+            <element signature="e#3320#3343#0" />
+            <element signature="e#3363#3585#0" />
+            <element signature="e#3374#3409#0" />
+            <element signature="e#3421#3444#0" />
+            <element signature="e#3454#3481#0" />
+            <element signature="e#3491#3519#0" />
+            <element signature="e#3529#3582#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/slider.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="54" column="12" selection-start-line="54" selection-start-column="12" selection-end-line="54" selection-end-column="12" />
+          <folding>
+            <element signature="e#189#301#0" />
+            <element signature="e#385#457#0" />
+            <element signature="e#467#534#0" />
+            <element signature="e#679#750#0" />
+            <element signature="e#760#826#0" />
+            <element signature="e#838#931#0" />
+            <element signature="e#941#962#0" />
+            <element signature="e#973#994#0" />
+            <element signature="e#1012#1036#0" />
+            <element signature="e#1027#1033#0" />
+            <element signature="e#1053#1188#0" />
+            <element signature="e#1205#1668#0" />
+            <element signature="e#1384#1643#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/about.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="54" column="8" selection-start-line="54" selection-start-column="8" selection-end-line="54" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/diagram.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/karachyov.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/karachyov.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <element signature="e#109#137#0" />
+            <element signature="e#142#175#0" />
+            <element signature="e#185#207#0" />
+            <element signature="e#219#326#0" />
+            <element signature="e#657#728#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/mixin.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/componets/footer.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="424">
-          <caret line="58" column="17" selection-start-line="58" selection-start-column="17" selection-end-line="58" selection-end-column="17" />
+        <state relative-caret-position="315">
+          <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
           <folding>
             <element signature="e#164#273#0" />
             <element signature="e#284#491#0" />
             <element signature="e#508#721#0" />
+            <element signature="e#734#974#0" />
+            <element signature="e#988#1229#0" />
+            <element signature="e#1240#1470#0" />
+            <element signature="e#1584#1639#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts-list.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <element signature="e#700#824#0" />
           </folding>
         </state>
       </provider>

@@ -30,7 +30,7 @@
 	}
 	&__subtitle{
 		color: $primary1;
-		font-size: 36px;
+		@include adaptive-font(36,18);
 		position: relative;
 		margin: 0;
 		max-width: none;
@@ -48,7 +48,7 @@
 	}
 	&__code{
 		color: $mildGreen;
-		font-size: 64px;
+		@include adaptive-font(64,48);
 		font-family: $SourceCodePro;
 		margin: 20px 0;
 	}
@@ -64,24 +64,11 @@
 		}
 	}
 	@include r(768){
-		&__title{
-			font-size: 28px;
-		}
 		&__subtitle{
-			font-size: 26px;
 			padding-right: 0;
-		}
-		&__code{
-			font-size: 48px;
 		}
 	}
 	@include r(425){
-		&__title{
-			font-size: 20px;
-		}
-		&__subtitle{
-			font-size: 18px;
-		}
 		&__social{
 			display: flex;
 			width: 100%;
@@ -99,9 +86,6 @@
 			width: 32px;
 			height: 86px;
 			margin: 30px auto;
-		}
-		.social__text{
-
 		}
 	}
 }

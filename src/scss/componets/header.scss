@@ -45,12 +45,12 @@
 		width: 60px;
 		height: 48px;
 		z-index: 5;
-		transition: all 300ms ease 0s;
+		transition: all 100ms ease 0s;
 		&.active{
 			background-image: url("../img/logo-light.svg");
 			left: 15px;
 			transform: translate(0,-50%);
-			transition: all 300ms ease 0s;
+			transition: all 100ms ease 0s;
 		}
 	}
 	&__burger{
@@ -67,7 +67,7 @@
 			width: 100%;
 			height: 5px;
 			background-color: $primary1;
-			transition: all 300ms ease 0s;
+			transition: all 100ms ease 0s;
 		}
 		&:before{
 			top: 0;
@@ -82,7 +82,7 @@
 			background-color: $primary1;
 			width: 90%;
 			height: 5px;
-			transition: all 300ms ease 0s;
+			transition: all 100ms ease 0s;
 		}
 		&.active{
 			&:before{
@@ -106,7 +106,7 @@
 				width: 100%;
 				height: 5px;
 				background-color: $darkBlue;
-				transition: all 300ms ease 0s;
+				transition: all 100ms ease 0s;
 			}
 			span{
 				background-color: $darkBlue;
@@ -138,39 +138,40 @@
 		li{
 			list-style: none;
 			margin-bottom: 45px;
-		}
-	}
-	&__link{
-		color: $primary1;
-		font-size: 36px;
-		font-family: $SourceCodePro;
-		font-weight: normal;
-		text-decoration: none;
-		position: relative;
-		padding: 0 5px;
-		transition: all 300ms ease 0s;
-		&:hover{
-			background-color: $primary2;
-			color: $mildGreen;
-			&:before{
-				content: '<';
-				display: inline;
-			}
-			&:after{
-				content: '/>';
-				display: inline;
-			}
-		}
-		&.active{
-			background-color: $primary2;
-			color: $mildGreen;
-			&:before{
-				content: '<';
-				display: inline;
-			}
-			&:after{
-				content: '/>';
-				display: inline;
+			a{
+				color: $primary1;
+				font-size: 36px;
+				font-family: $SourceCodePro;
+				font-weight: normal;
+				text-decoration: none;
+				position: relative;
+				padding: 0 5px;
+				transition: all 100ms ease 0s;
+				&:hover{
+					background-color: $primary2;
+					color: $mildGreen;
+					&:before{
+						content: '<';
+						display: inline;
+					}
+					&:after{
+						content: '/>';
+						display: inline;
+					}
+				}
+				&.active{
+					background-color: $primary2;
+					color: $mildGreen;
+					&:before{
+						content: '<';
+						display: inline;
+					}
+					&:after{
+						content: '/>';
+						display: inline;
+					}
+				}
+
 			}
 		}
 

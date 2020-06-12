@@ -818,7 +818,6 @@ body.lock {
 }
 
 h1 {
-  font-size: 48px;
   font-family: "Source Code Pro", monospace;
   font-weight: bold;
 }
@@ -830,7 +829,6 @@ h1 span {
 }
 
 h2 {
-  font-size: 36px;
   font-family: "Source Code Pro", monospace;
   font-weight: bold;
 }
@@ -1005,9 +1003,9 @@ h4 span.color {
   width: 60px;
   height: 48px;
   z-index: 5;
-  -webkit-transition: all 300ms ease 0s;
-  -o-transition: all 300ms ease 0s;
-  transition: all 300ms ease 0s;
+  -webkit-transition: all 100ms ease 0s;
+  -o-transition: all 100ms ease 0s;
+  transition: all 100ms ease 0s;
 }
 
 .header__logo.active {
@@ -1016,9 +1014,9 @@ h4 span.color {
   -webkit-transform: translate(0, -50%);
       -ms-transform: translate(0, -50%);
           transform: translate(0, -50%);
-  -webkit-transition: all 300ms ease 0s;
-  -o-transition: all 300ms ease 0s;
-  transition: all 300ms ease 0s;
+  -webkit-transition: all 100ms ease 0s;
+  -o-transition: all 100ms ease 0s;
+  transition: all 100ms ease 0s;
 }
 
 .header__burger {
@@ -1037,9 +1035,9 @@ h4 span.color {
   width: 100%;
   height: 5px;
   background-color: #ffffff;
-  -webkit-transition: all 300ms ease 0s;
-  -o-transition: all 300ms ease 0s;
-  transition: all 300ms ease 0s;
+  -webkit-transition: all 100ms ease 0s;
+  -o-transition: all 100ms ease 0s;
+  transition: all 100ms ease 0s;
 }
 
 .header__burger:before {
@@ -1057,9 +1055,9 @@ h4 span.color {
   background-color: #ffffff;
   width: 90%;
   height: 5px;
-  -webkit-transition: all 300ms ease 0s;
-  -o-transition: all 300ms ease 0s;
-  transition: all 300ms ease 0s;
+  -webkit-transition: all 100ms ease 0s;
+  -o-transition: all 100ms ease 0s;
+  transition: all 100ms ease 0s;
 }
 
 .header__burger.active:before {
@@ -1090,9 +1088,9 @@ h4 span.color {
   width: 100%;
   height: 5px;
   background-color: #006EB6;
-  -webkit-transition: all 300ms ease 0s;
-  -o-transition: all 300ms ease 0s;
-  transition: all 300ms ease 0s;
+  -webkit-transition: all 100ms ease 0s;
+  -o-transition: all 100ms ease 0s;
+  transition: all 100ms ease 0s;
 }
 
 .header__burger.color span {
@@ -1136,7 +1134,7 @@ h4 span.color {
   margin-bottom: 45px;
 }
 
-.header__link {
+.header__list li a {
   color: #ffffff;
   font-size: 36px;
   font-family: "Source Code Pro", monospace;
@@ -1144,37 +1142,37 @@ h4 span.color {
   text-decoration: none;
   position: relative;
   padding: 0 5px;
-  -webkit-transition: all 300ms ease 0s;
-  -o-transition: all 300ms ease 0s;
-  transition: all 300ms ease 0s;
+  -webkit-transition: all 100ms ease 0s;
+  -o-transition: all 100ms ease 0s;
+  transition: all 100ms ease 0s;
 }
 
-.header__link:hover {
+.header__list li a:hover {
   background-color: #000000;
   color: #00B39B;
 }
 
-.header__link:hover:before {
+.header__list li a:hover:before {
   content: '<';
   display: inline;
 }
 
-.header__link:hover:after {
+.header__list li a:hover:after {
   content: '/>';
   display: inline;
 }
 
-.header__link.active {
+.header__list li a.active {
   background-color: #000000;
   color: #00B39B;
 }
 
-.header__link.active:before {
+.header__list li a.active:before {
   content: '<';
   display: inline;
 }
 
-.header__link.active:after {
+.header__list li a.active:after {
   content: '/>';
   display: inline;
 }
@@ -1300,7 +1298,6 @@ h4 span.color {
 
 .slider__subtitle {
   color: #ffffff;
-  font-size: 36px;
   position: relative;
   margin: 0;
   max-width: none;
@@ -1321,7 +1318,6 @@ h4 span.color {
 
 .slider__code {
   color: #00B39B;
-  font-size: 64px;
   font-family: "Source Code Pro", monospace;
   margin: 20px 0;
 }
@@ -1410,7 +1406,6 @@ h4 span.color {
 }
 
 .about p {
-  font-size: 24px;
   font-family: "Montserrat", sans-serif;
 }
 
@@ -1952,6 +1947,32 @@ h4 span.color {
   padding-left: 26px;
 }
 
+@media (min-width: 767px) {
+  h1 {
+    font-size: calc(20px + 28 * (100vw / 1160));
+  }
+
+  h2 {
+    font-size: calc(26px + 10 * (100vw / 1160));
+  }
+
+  .slider__subtitle {
+    font-size: calc(18px + 18 * (100vw / 1160));
+  }
+
+  .slider__code {
+    font-size: calc(48px + 16 * (100vw / 1160));
+  }
+
+  .about p {
+    font-size: calc(18px + 6 * (100vw / 1160));
+  }
+
+  .diagram__name {
+    font-size: calc(20px + 4 * (100vw / 1160));
+  }
+}
+
 @media only screen and (max-width: 1200px) {
   .project__item {
     margin: 0 20px;
@@ -1986,30 +2007,12 @@ h4 span.color {
 }
 
 @media only screen and (max-width: 768px) {
-  h1 {
-    font-size: 38px;
-  }
-
-  h2 {
-    font-size: 26px;
-    line-height: 38px;
-  }
-
   .header .social__text {
     display: none;
   }
 
-  .slider__title {
-    font-size: 28px;
-  }
-
   .slider__subtitle {
-    font-size: 26px;
     padding-right: 0;
-  }
-
-  .slider__code {
-    font-size: 48px;
   }
 
   .project {
@@ -2041,6 +2044,32 @@ h4 span.color {
   }
 }
 
+@media (max-width: 767px) {
+  h1 {
+    font-size: calc(20px + 47.6 * ((100vw - 320px) / 1160));
+  }
+
+  h2 {
+    font-size: calc(26px + 17 * ((100vw - 320px) / 1160));
+  }
+
+  .slider__subtitle {
+    font-size: calc(18px + 30.6 * ((100vw - 320px) / 1160));
+  }
+
+  .slider__code {
+    font-size: calc(48px + 27.2 * ((100vw - 320px) / 1160));
+  }
+
+  .about p {
+    font-size: calc(18px + 10.2 * ((100vw - 320px) / 1160));
+  }
+
+  .diagram__name {
+    font-size: calc(20px + 6.8 * ((100vw - 320px) / 1160));
+  }
+}
+
 @media only screen and (max-width: 767px) {
   .contacts {
     height: 100%;
@@ -2067,30 +2096,10 @@ h4 span.color {
             justify-content: center;
   }
 
-  .about p {
-    font-size: 18px;
-    font-family: "Montserrat", sans-serif;
-  }
-
-  .about p a {
-    color: #00B39B;
-    font-weight: bold;
-  }
-
   .diagram__circle {
     padding: 15px;
     border: 1px solid #F5F5F5;
     border-radius: 50%;
-  }
-
-  .diagram p {
-    font-size: 18px;
-    font-family: "Montserrat", sans-serif;
-  }
-
-  .diagram p a {
-    color: #00B39B;
-    font-weight: bold;
   }
 
   .footer__body {
@@ -2206,14 +2215,6 @@ h4 span.color {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-  }
-
-  .slider__title {
-    font-size: 20px;
-  }
-
-  .slider__subtitle {
-    font-size: 18px;
   }
 
   .slider__social {

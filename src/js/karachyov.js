@@ -22,7 +22,7 @@ $(window).scroll(function(){
         }
     })
 });
-$(".menuscroll").on("click","a", function (event) {
+$(".menuscroll").on("click","a[href='#']", function (event) {
     event.preventDefault();
     var id  = $(this).attr('href'),
         top = $(id).offset().top;
