@@ -2,52 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4c85a6c-f0d6-4e4e-9218-28afcf3c99ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/img/social.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/social.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/social.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-chrome-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/android-chrome-512x512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/apple-touch-icon.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/browserconfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/karachyov.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/karachyov.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/css/karachyov.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/karachyov.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/ProximaNova-Light.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/ProximaNova-Reg.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/fonts/ProximaNovaBold.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/html_code.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/img/Unconfirmed 299800.crdownload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/img/Unconfirmed 323212.crdownload" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/img/stack/sprite.stack.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/img/stack/sprite.stack.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/js/karachyov.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/karachyov.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/js/karachyov.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/karachyov.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/mstile-150x150.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/porfolio.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/safari-pinned-tab.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/site.webmanifest" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/js/karachyov.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/karachyov.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/componets/about.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/about.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/componets/diagram.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/diagram.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/componets/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/componets/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/componets/slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/karachyov.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/karachyov.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/mixin.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/template/_header.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template/_header.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,48 +20,75 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts.scss">
+        <entry file="file://$PROJECT_DIR$/src/template/_header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+            <state relative-caret-position="180">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#1/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#4/content-page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#5/content.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts-list.scss">
+        <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#6/archive.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding>
-                <element signature="e#700#824#0" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/mixin.scss">
+        <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#3/header-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
+            <state relative-caret-position="-4">
+              <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/scss/componets/footer.scss">
+        <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="68" column="20" selection-start-line="68" selection-start-column="20" selection-end-line="68" selection-end-column="20" />
+            <state relative-caret-position="210">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
               <folding>
-                <element signature="e#164#273#0" />
-                <element signature="e#284#491#0" />
-                <element signature="e#508#721#0" />
-                <element signature="e#734#974#0" />
-                <element signature="e#988#1229#0" />
-                <element signature="e#1240#1470#0" />
-                <element signature="e#1584#1639#0" />
+                <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -144,12 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/scss/partials/_fonts.scss" />
-        <option value="$PROJECT_DIR$/src/scss/partials/_color.scss" />
-        <option value="$PROJECT_DIR$/src/scss/_fonts.scss" />
-        <option value="$PROJECT_DIR$/build/img/icons/icons.svg" />
-        <option value="$PROJECT_DIR$/src/scss/componets/feedback.scss" />
-        <option value="$PROJECT_DIR$/src/scss/componets/contacts.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/social.scss" />
         <option value="$PROJECT_DIR$/src/js/partials/burger.js" />
         <option value="$PROJECT_DIR$/src/scss/componets/nav-pagination.scss" />
@@ -185,9 +167,6 @@
         <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#15/footer.php" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/src/js/karachyov.js" />
-        <option value="$PROJECT_DIR$/src/index.html" />
-        <option value="$PROJECT_DIR$/src/template/_header.html" />
         <option value="$PROJECT_DIR$/src/scss/componets/header.scss" />
         <option value="$PROJECT_DIR$/src/scss/mixin.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/slider.scss" />
@@ -195,6 +174,15 @@
         <option value="$PROJECT_DIR$/src/scss/componets/about.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/diagram.scss" />
         <option value="$PROJECT_DIR$/src/scss/componets/contacts-list.scss" />
+        <option value="$PROJECT_DIR$/src/index.html" />
+        <option value="$PROJECT_DIR$/src/js/karachyov.js" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#0/header.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#3/header-page.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#1/header.php" />
+        <option value="$PROJECT_DIR$/src/template/_header.html" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#4/content-page.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#5/content.php" />
+        <option value="$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#6/archive.php" />
       </list>
     </option>
   </component>
@@ -222,25 +210,20 @@
             <path>
               <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
               <item name="karachyov" type="462c0819:PsiDirectoryNode" />
-              <item name="build" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
-              <item name="karachyov" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
               <item name="karachyov" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="karachyov" type="b2602c69:ProjectViewProjectNode" />
               <item name="karachyov" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="componets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="partials" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -294,9 +277,10 @@
     <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="712" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23505655" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23828755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -368,83 +352,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/breadcrumbs.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build/img/stack/sprite.stack.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="167" column="40" lean-forward="true" selection-start-line="167" selection-start-column="40" selection-end-line="167" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/project.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="130" column="26" selection-start-line="130" selection-start-column="26" selection-end-line="130" selection-end-column="26" />
-          <folding>
-            <element signature="e#45#363#0" />
-            <element signature="e#221#360#0" />
-            <element signature="e#372#435#0" />
-            <element signature="e#409#432#0" />
-            <element signature="e#444#570#0" />
-            <element signature="e#579#736#0" />
-            <element signature="e#694#733#0" />
-            <element signature="e#848#933#0" />
-            <element signature="e#868#930#0" />
-            <element signature="e#941#998#0" />
-            <element signature="e#1008#1093#0" />
-            <element signature="e#1104#1166#0" />
-            <element signature="e#1181#1203#0" />
-            <element signature="e#1217#1573#0" />
-            <element signature="e#1226#1249#0" />
-            <element signature="e#1266#1462#0" />
-            <element signature="e#1279#1458#0" />
-            <element signature="e#1481#1570#0" />
-            <element signature="e#1500#1566#0" />
-            <element signature="e#1514#1561#0" />
-            <element signature="e#1586#2011#0" />
-            <element signature="e#1751#2007#0" />
-            <element signature="e#1861#1935#0" />
-            <element signature="e#1953#2003#0" />
-            <element signature="e#1965#1998#0" />
-            <element signature="e#2028#2478#0" />
-            <element signature="e#2130#2475#0" />
-            <element signature="e#2150#2356#0" />
-            <element signature="e#2164#2351#0" />
-            <element signature="e#2376#2471#0" />
-            <element signature="e#2396#2466#0" />
-            <element signature="e#2411#2460#0" />
-            <element signature="e#2495#2539#0" />
-            <element signature="e#2513#2536#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/blog.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/iconsprite/facebook-filled.svg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/form.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/page.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/porfolio.html" />
     <entry file="file://$PROJECT_DIR$/src/template/_filter.html" />
     <entry file="file://$PROJECT_DIR$/src/scss/componets/filter.scss">
@@ -470,32 +377,10 @@
     <entry file="file://$PROJECT_DIR$/src/img/GitHub_Logo_White.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#1/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-207" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#3/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="64" column="30" lean-forward="true" selection-start-line="64" selection-start-column="30" selection-end-line="64" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#4/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="61" column="43" lean-forward="true" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#6/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-476">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#1/index.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#3/header.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#4/header.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#6/header.php" />
     <entry file="file://$PROJECT_DIR$/src/template/_meta.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -539,56 +424,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#5/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="94" column="33" lean-forward="true" selection-start-line="94" selection-start-column="33" selection-end-line="94" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#7/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="97" column="32" lean-forward="true" selection-start-line="97" selection-start-column="32" selection-end-line="97" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#8/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="85" column="10" lean-forward="true" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="10" />
-          <folding>
-            <element signature="e#4384#4704#1#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#9/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="69" column="5" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="5" />
-          <folding>
-            <element signature="e#753#759#0#HTML" expanded="true" />
-            <element signature="e#913#1253#0#HTML" />
-            <element signature="e#502#1210#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#10/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#11/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="93" column="35" lean-forward="true" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#5/header.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#7/header.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#8/header.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#9/index.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#10/index.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#11/header.php" />
     <entry file="file://$PROJECT_DIR$/build/css/karachyov.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
@@ -596,23 +437,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#12/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="50" selection-end-column="117" />
-          <folding>
-            <element signature="e#4361#4366#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#14/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="87" column="9" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#12/header.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#14/header.php" />
     <entry file="file://$PROJECT_DIR$/src/template/_footer.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -620,33 +446,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#15/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="n#footer#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#13/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="73" column="61" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
-          <folding>
-            <element signature="e#1293#3132#0#HTML" />
-            <element signature="e#3293#3835#0#HTML" />
-            <element signature="e#3852#4394#0#HTML" />
-            <element signature="e#4411#4953#0#HTML" />
-            <element signature="e#4970#5512#0#HTML" />
-            <element signature="e#5529#6071#0#HTML" />
-            <element signature="e#6088#6630#0#HTML" />
-            <element signature="e#6810#8451#0#HTML" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#15/footer.php" />
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#13/index.php" />
     <entry file="file://$PROJECT_DIR$/header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -820,50 +621,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/karachyov.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/template/_header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="42" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scss/fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -878,6 +639,59 @@
             <element signature="e#219#326#0" />
             <element signature="e#657#728#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#0/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="71" column="33" selection-start-line="71" selection-start-column="33" selection-end-line="71" selection-end-column="33" />
+          <folding>
+            <element signature="n#nav#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/karachyov.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+          <folding>
+            <element signature="e#1095#1314#0" />
+            <element signature="e#1334#1509#0" />
+            <element signature="e#1543#2074#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/partials/burger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts-list.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#700#824#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#3/header-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -904,13 +718,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scss/componets/contacts-list.scss">
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/template/_header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#1/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="58" column="21" selection-start-line="58" selection-start-column="21" selection-end-line="58" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#4/content-page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-          <folding>
-            <element signature="e#700#824#0" />
-          </folding>
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#5/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/com.binarynights.ForkLift2/#6/archive.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
         </state>
       </provider>
     </entry>
