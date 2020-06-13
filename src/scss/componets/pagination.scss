@@ -1,5 +1,6 @@
 .pagination{
-	&__link{
+	&__link,
+	.page-numbers{
 		display: inline-block;
 		border: 3px solid $gray;
 		padding: 16px;
@@ -10,14 +11,16 @@
 		font-size: 24px;
 		font-weight: bold;
 		font-family: $SourceCodePro;
-		&.active{
+		&.active,
+		&.current{
 			background-color: $mildGreen;
 			border: 3px solid $mildGreen;
 			color: $primary1;
 		}
 	}
 	@include r(540){
-		&__link {
+		&__link,
+		.page-numbers{
 			margin-right: 15px;
 			margin-bottom: 15px;
 		}

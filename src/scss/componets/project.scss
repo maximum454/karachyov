@@ -52,11 +52,15 @@
 			display: block;
 			width: 100%;
 			object-fit: cover;
+			height: auto;
 		}
 	}
 	&__txt{
 		background-color: $primary1;
 		padding: 16px 11px;
+		text-decoration: none;
+		display: block;
+		color: inherit;
 	}
 	&__title{
 		background-color: $mildGreen;

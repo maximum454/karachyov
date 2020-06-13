@@ -1519,11 +1519,15 @@ h4 span.color {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+  height: auto;
 }
 
 .project__txt {
   background-color: #ffffff;
   padding: 16px 11px;
+  text-decoration: none;
+  display: block;
+  color: inherit;
 }
 
 .project__title {
@@ -1882,7 +1886,8 @@ h4 span.color {
   color: #5C5C5C;
 }
 
-.pagination__link {
+.pagination__link,
+.pagination .page-numbers {
   display: inline-block;
   border: 3px solid #5C5C5C;
   padding: 16px;
@@ -1895,7 +1900,10 @@ h4 span.color {
   font-family: "Source Code Pro", monospace;
 }
 
-.pagination__link.active {
+.pagination__link.active,
+.pagination__link.current,
+.pagination .page-numbers.active,
+.pagination .page-numbers.current {
   background-color: #00B39B;
   border: 3px solid #00B39B;
   color: #ffffff;
@@ -1904,6 +1912,8 @@ h4 span.color {
 .blog__title {
   color: #006EB6;
   font-size: 24px;
+  text-decoration: none;
+  font-weight: bold;
 }
 
 .blog__anons {
@@ -2179,7 +2189,8 @@ h4 span.color {
     color: #ffffff;
   }
 
-  .pagination__link {
+  .pagination__link,
+  .pagination .page-numbers {
     margin-right: 15px;
     margin-bottom: 15px;
   }
