@@ -1957,6 +1957,30 @@ h4 span.color {
   padding-left: 26px;
 }
 
+.contant-page {
+  font-family: "Montserrat", sans-serif;
+}
+
+.contant-page .entry-title {
+  color: #fff;
+  font-size: 24px;
+  background-color: #006eb6;
+  padding: 5px 10px;
+  margin-bottom: 30px;
+}
+
+.contant-page p {
+  color: #5C5C5C;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: "Montserrat", sans-serif;
+}
+
+.contant-page img {
+  max-width: 100%;
+  margin: 20px 0;
+}
+
 @media (min-width: 767px) {
   h1 {
     font-size: calc(20px + 28 * (100vw / 1160));
